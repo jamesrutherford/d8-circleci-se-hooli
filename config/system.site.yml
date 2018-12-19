@@ -1,0 +1,14 @@
+uuid: 02e57c9a-7c7b-4a34-b574-f5f99b633aed
+name: d8-circleci-se-hooli
+mail: jameswrutherford@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
